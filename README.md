@@ -1,1 +1,1 @@
-Yoga Pose Estimations
+Yoga Pose Estimation
